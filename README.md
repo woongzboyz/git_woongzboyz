@@ -3,14 +3,14 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/Made%20with-PyTorch-red?style=flat-square&logo=pytorch">
-  <img src="https://img.shields.io/badge/Made%20by-Nvidia-green?style=flat-square&logo=nvidia">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Made%20with-PyTorch-red?style=for-the-badge&logo=pytorch">
+  <img src="https://img.shields.io/badge/Made%20by-NVIDIA-76B900?style=for-the-badge&logo=nvidia">
 </p>
 
 <!-- Description -->
 <p align="center">
-  Describe your project briefly here.
+  A brief and compelling description of your project.
 </p>
 
 <!-- Table of Contents -->
