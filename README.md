@@ -1,8 +1,10 @@
 # Awesome Deep Learning Project
 
-![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
-![PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-red?logo=pytorch)
-![Nvidia](https://img.shields.io/badge/Made%20by-Nvidia-green?logo=nvidia)
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
+  <img src="https://img.shields.io/badge/Made%20with-PyTorch-red?logo=pytorch">
+  <img src="https://img.shields.io/badge/Made%20by-Nvidia-green?logo=nvidia">
+</p>
 
 ## Overview
 
