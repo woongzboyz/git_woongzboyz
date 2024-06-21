@@ -43,5 +43,4 @@ Get started with DeepLearningX in just a few steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DeepLearningX.git
-   cd DeepLearningX
+   
