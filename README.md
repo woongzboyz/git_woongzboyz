@@ -1,24 +1,38 @@
-# Awesome Deep Learning Project
+<!-- Title -->
+<h1 align="center">Awesome Deep Learning Project</h1>
 
+<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
-  <img src="https://img.shields.io/badge/Made%20with-PyTorch-red?logo=pytorch">
-  <img src="https://img.shields.io/badge/Made%20by-Nvidia-green?logo=nvidia">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Made%20with-PyTorch-red?style=flat-square&logo=pytorch">
+  <img src="https://img.shields.io/badge/Made%20by-Nvidia-green?style=flat-square&logo=nvidia">
 </p>
 
-## Overview
+<!-- Description -->
+<p align="center">
+  Describe your project briefly here.
+</p>
 
-Brief introduction and overview of your project.
+<!-- Table of Contents -->
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Icons](#icons)
+
+<!-- Features -->
 ## Features
 
-- Feature 1: Description
-- Feature 2: Description
+- **Feature 1**: Description
+- **Feature 2**: Description
 
+<!-- Installation -->
 ## Installation
 
 Instructions for installation go here.
 
+<!-- Usage -->
 ## Usage
 
 Here's a simple example of using PyTorch in Python:
